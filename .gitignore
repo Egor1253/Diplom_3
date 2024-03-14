@@ -1,4 +1,7 @@
 /.idea/
+/.allure/
+!target
+!target/allure-results
 /target/classes
 /target/generated-test-sources/
 /target/generated-sources/

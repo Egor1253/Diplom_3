@@ -10,7 +10,6 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import java.util.concurrent.TimeUnit;
 
 import static constants.RandomData.*;
-import static java.sql.DriverManager.getDriver;
 
 public class SetUpAndClose {
 
