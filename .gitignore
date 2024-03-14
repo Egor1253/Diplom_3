@@ -1,5 +1,6 @@
 /.idea/
-/.allure/
+/.allure
+/.allure/allure-2.15.0
 !target
 !target/allure-results
 /target/classes
@@ -8,3 +9,4 @@
 /target/maven-status/
 /target/surefire-reports/
 /target/test-classes/
+/Diplom_3.iml
